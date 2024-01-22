@@ -31,5 +31,8 @@
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.0",
     "unzipper": "^0.10.14"
+  },
+  "engines": {
+    "node": "16.17.1"
   }
 }
